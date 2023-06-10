@@ -25,6 +25,8 @@ class className{
    body...  
 }
 
+"jshell" is also a way to run our one line code.
+We can run jshell on cmd;
 This will run our code
 
 
