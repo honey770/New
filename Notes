@@ -1,0 +1,61 @@
+JDK install 
+Java Development Kit
+contains :
+JRE which is Java Runtime Enviornment 
+which contain :
+JVM which is Java virtual machine
+
+JVM runs or java code.JVM can only understand byte code(0,1)
+
+So,We first we have to compile our .java file 
+.java -> .class  this is a byte code
+JVM will understand the .class file and exicute our file 
+
+
+In project we have multiple file 
+but only one file can contain the "main function "
+
+    public static void main(String a[]){
+
+    }
+
+And .java file should contian in a class 
+
+class className{
+   body...  
+}
+
+This will run our code
+
+
+Next,
+
+We have different type of Data Types
+Primitive:
+1.Integer -> byte,short,int,long
+2.Float   ->double,float
+3.Character
+4.Boolean
+
+Integer :-
+int=4bytes (default)
+long=8bytes for using long we have to use "l" as postfix eg. long l=2342354253l;
+short=2bytes
+byte=1byte(8 bits)  -> -128 to 127
+
+Float :-
+float=4bytes
+for using float in java we have to use "f" as postfix eg. float num=23.3f;
+double=8bytes (default)
+
+character :-
+char=2bytes
+Unicode not ASCII
+
+char c='k';
+
+Boolean :-
+true and false not (0,1)
+
+boolean b=true;
+
