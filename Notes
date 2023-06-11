@@ -1,3 +1,5 @@
+10/6/2023
+
 JDK install 
 Java Development Kit
 contains :
@@ -60,4 +62,104 @@ Boolean :-
 true and false not (0,1)
 
 boolean b=true;
+
+11/6/2023
+
+Literals :-
+
+Literals in Java are a synthetic representation of boolean, character, numeric, or string data. They are a means of 
+expressing particular values within a program. They are constant values that directly appear in a program and can be assigned now to a variable.
+
+int num=0b101; for Binary Number
+int num=0x101E for Hexadecimal Number
+
+int num=1000000;
+int num=100_00_00; We can write our number in this format also using "_" 
+The out put will be same.
+
+double num=23e10;
+
+char c='a';
+
+Type Conversion and Casting :-
+
+byte b=127;
+int a=256;
+
+b=a; (Not posible)
+a=b;
+
+if you want to change integer into byte:
+    if the value of 'a' is in a range:
+        a=123;
+        b=(byte)a;
+
+if the a=257:
+    java will type caste 'a' to byte using modulo method.
+    257%256 where 256 is the range of the byte.
+    and returns 1;
+
+float f=3.3f;
+int x=(int)f;
+
+Type Permotion:-
+
+byte a=12;
+byte b=32;
+
+if you perform an operation like * the value will go out of range.
+This value will be permoted to int value
+
+int result =a*b;
+
+Assignment operator:-
+
+=
++=    
+-=
+*=
+/=
+%=
+
+++  inrement (post and pre)
+--  decrement (post and pre)
+
+int result=num++; // it will first fetch the value of num and then increment;
+int reuslt=++num; // it will first increment and then fetch the value;
+
+ 
+class className{
+
+    public static void main(String args[]){
+
+        int num1=32;
+        int num2=34;
+
+        int result=num1%num2;
+
+        num1=num1+2;
+
+        num1 +=2;
+
+
+    }
+}
+
+
+Relational Operator:-
+
+>
+<
+==
+!=
+>=
+<=
+
+
+Logical Operators:-
+
+&&
+||
+!
+
 
