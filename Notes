@@ -159,7 +159,8 @@ Relational Operator:-
 Logical Operators:-
 
 &&
-||
+||  (Short Circuit)
 !
+
 
 
