@@ -10,6 +10,6 @@ public class loop2{
             System.out.println("Hiii "+i);
             i++;            
         }
-    }
+    }  
 
 }

@@ -177,4 +177,16 @@ Loops in java:
     for
     while 
     do while 
+    Nested loops 
 
+    loop(){
+        loop(){}
+    }
+
+    for loop as while loop :-
+
+    int  i=23; // intisilised 
+
+    for(;i>34;){
+        i++
+    }
