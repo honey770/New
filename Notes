@@ -1,4 +1,4 @@
-10/6/2023
+************************************ 10/6/2023 ************************************
 
 JDK install 
 Java Development Kit
@@ -63,7 +63,7 @@ true and false not (0,1)
 
 boolean b=true;
 
-11/6/2023
+************************************ 11/6/2023 ************************************
 
 Literals :-
 
@@ -163,4 +163,18 @@ Logical Operators:-
 !
 
 
+************************************ 12/6/2023 ************************************
+
+Conditional Statements:-
+
+
+    Ternary Operator are used to perform one line if else condition.
+
+    Switch Statements 
+
+Loops in java:
+
+    for
+    while 
+    do while 
 
