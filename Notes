@@ -212,3 +212,9 @@ JRE (Java Runtime Enviornment) give a place to store the spotted file which are 
 
 
 main() method is the from which the exicution started.
+
+Method overloading
+    Having same name with different parameters.
+
+Stack and Heap :-
+
