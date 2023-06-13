@@ -190,3 +190,18 @@ Loops in java:
     for(;i>34;){
         i++
     }
+
+************************************ 13/6/2023 ************************************
+
+Class and Object in java :-
+
+    Every object know something and do something .
+    Every this is an object.
+
+    Object oriented programing 
+    object can have properties and behaviour.
+
+    Class are the blueprint of object.
+
+    JVM will creates an object.
+
