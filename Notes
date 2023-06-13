@@ -205,3 +205,10 @@ Class and Object in java :-
 
     JVM will creates an object.
 
+
+
+JDK contains JRE which contains JVM which run our byte code.
+JRE (Java Runtime Enviornment) give a place to store the spotted file which are being exicuted in the JVM 
+
+
+main() method is the from which the exicution started.
