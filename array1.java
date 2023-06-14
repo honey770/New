@@ -7,12 +7,25 @@ public class array1 {
 
         num1[1]=3224;
 
+        // for(int i=0;i<4;i++){
+
+        //     System.out.print(num1[i]+" ");
+        // }
+
+        // char c[]=new char[4];
+
+        // for(int i=0;i<4;i++){
+
+        //     System.out.print(c[i]+" ");
+        // }
+
+        float f[]=new float[4];
+
         for(int i=0;i<4;i++){
 
-            System.out.print(num1[i]+" ");
+            System.out.print(f[i]+" ");
         }
 
-        
 
 
     }
